@@ -1,1 +1,1 @@
-print ('Hello Wooooooam')
+print ('Hello Woooam')
